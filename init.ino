@@ -86,15 +86,6 @@ void loop() {
     adc_num = 0;
   }
 
-  //  if (motorApagado == true) {
-  //    analogWrite (control, LOW);
-  //    do {
-  //
-  //    } while (analogRead(soundpin) > 700);
-  //    motorApagado = false; //el motor deja de estar apagado
-  //  }
-  //}
-  //}
 }
 
 void clean()
